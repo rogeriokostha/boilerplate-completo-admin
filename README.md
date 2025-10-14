@@ -42,7 +42,8 @@ python manage.py migrate
 python manage.py runserver
 
 
-🧪 Testes Automatizados
+## 🧪 Testes Automatizados
+
 python manage.py test
 
 
@@ -50,7 +51,7 @@ accounts/ → registro, login JWT, redefinição e alteração de senha
 
 locations/ → listagem, paginação e busca acento-insensível
 
-☁️ CI/CD (GitHub Actions)
+## ☁️ CI/CD (GitHub Actions)
 
 Fluxo automatizado de testes a cada push no branch main.
 
