@@ -1,0 +1,10 @@
+[
+  {
+    "model": "locations.country",
+    "pk": 1,
+    "fields": {
+      "name": "Brasil",
+      "code": "BR"
+    }
+  }
+]
