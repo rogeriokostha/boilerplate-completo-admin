@@ -42,8 +42,7 @@ jobs:
 
             - name: ⚙️ Configurar variáveis de ambiente
               run: |
-                  echo "DATABASE_URL=postgres://test_user:test_pass@localhost:5432/test_db" >> $GITHUB_ENV
-                  echo "DJANGO_SETTINGS_MODULE=core_base.settings.base" >> $GITHUB_ENV
+                  echo "DJANGO_SETTINGS_MODULE=core_base.settings.local" >> $GITHUB_ENV
 
             - name: 🧪 Rodar testes Django
               run: |
