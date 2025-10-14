@@ -2,6 +2,9 @@
 
 Boilerplate profissional em **Django Rest Framework** com **autenticação JWT**, **painel administrativo Jazzmin**, **documentação automática (Swagger/Redoc)**, **localização (cidades do Brasil)** e **testes automatizados**.
 
+
+![Django Tests](https://github.com/rogeriokostha/boilerplate-completo-admin/actions/workflows/tests.yml/badge.svg)
+
 ---
 
 ## 🚀 Tecnologias Principais
